@@ -1,3 +1,5 @@
+#Local Quadratic Approximation
+
 #Soft Thresholding Operator
 Soft <- function(z, lambda) {
   sign(z) * ifelse((abs(z) > lambda),0)

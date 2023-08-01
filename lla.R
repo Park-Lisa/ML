@@ -1,4 +1,4 @@
-#Local Linear Approximation
+#Local Linear Approximation 
 
 lla <- function(X, y, a = 3.7, lambda, max.iter = 1000, init = NULL, eps = 1.0e-8) { n <- length(y)
 p <- ncol(x)

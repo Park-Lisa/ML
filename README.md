@@ -18,5 +18,7 @@ ML feature engineering 코드를 패키지 없이 직접 구현하였습니다.
  
 7. One-step Sparse Estimation
  
-8. MCMC for Bayesian Poisson regression 
+8. MCMC for Bayesian Poisson regression
+
+9. SVM using ipop
 
